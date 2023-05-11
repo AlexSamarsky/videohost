@@ -4,5 +4,3 @@ def hello():
 
 
 hello()
-
-hello()
